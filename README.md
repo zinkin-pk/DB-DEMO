@@ -24,4 +24,4 @@
 8. Бронирование: фильм, зал, ряд, место, клиент, сотрудник.
 
 ## Схема БД
-![](https://user-images.githubusercontent.com/3592004/133276918-aa16fd6d-a077-44ff-9ac0-d65229e70430.jpg)
+![](https://user-images.githubusercontent.com/3592004/133277329-dabfb6a9-fc5e-478d-a667-34ac1075eb77.jpg)
